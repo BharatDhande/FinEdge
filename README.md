@@ -1,4 +1,4 @@
-# 🏦 Banking Portal – Full Stack Web Application
+# 🏦 FinEdge – Banking Portal
 
 A secure and modern full-stack banking portal developed using **Spring Boot**, **Spring Security**, **Angular**, and **MySQL**. The platform enables users to register, manage accounts, perform transactions, and securely access banking features.
 
