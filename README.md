@@ -42,7 +42,6 @@ A secure and modern full-stack banking portal developed using **Spring Boot**, *
 
 ## 📸 Screenshots
 
-> Add screenshots of the login page, dashboard, transaction table, and fund transfer page here.
 
 ---
 
